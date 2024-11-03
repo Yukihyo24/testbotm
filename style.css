@@ -10,15 +10,40 @@ header {
     padding: 10px;
 }
 
+nav {
+    margin-top: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
 main {
     margin: 20px;
 }
 
-#deck, #enemy, #controls {
-    margin: 20px 0;
+.tab-content {
+    display: none;
 }
 
 #deck-cards, #enemy-card {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card, .enemy-image {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.card img, .enemy-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
 }
