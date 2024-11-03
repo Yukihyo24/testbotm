@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Guerrier",
+        "image": "assets/guerrier.png",
+        "universe": "Fantasy",
+        "level": 1,
+        "stats": {
+            "strength": 5,
+            "mana": 3,
+            "speed": 4,
+            "popularity": 2
+        }
+    },
+    {
+        "name": "Mage",
+        "image": "assets/mage.png",
+        "universe": "Fantasy",
+        "level": 1,
+        "stats": {
+            "strength": 2,
+            "mana": 8,
+            "speed": 3,
+            "popularity": 5
+        }
+    }
+    // Ajoutez plus de cartes ici si besoin
+]

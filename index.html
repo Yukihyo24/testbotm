@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeu de Cartes - Bataille de Stats</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Jeu de Cartes - Bataille de Stats</h1>
+    </header>
+
+    <main>
+        <section id="game-info">
+            <p id="score">Score : 0</p>
+            <button onclick="startGame()">Commencer le jeu</button>
+        </section>
+
+        <section id="deck">
+            <h2>Mon Deck</h2>
+            <div id="deck-cards"></div>
+        </section>
+
+        <section id="enemy">
+            <h2>Adversaire Actuel</h2>
+            <div id="enemy-card"></div>
+        </section>
+
+        <section id="controls">
+            <button onclick="nextTurn()">Suivant</button>
+        </section>
+    </main>
+
+    <script src="main.js"></script>
+</body>
+</html>
