@@ -3,43 +3,43 @@
         "name": "Pikachu",
         "stat": "speed",
         "value": 88,
-        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
     {
         "name": "Deidara",
         "stat": "popularity",
         "value": 90,
-        "image": "https://drive.google.com/uc?export=view&id=1zKtTSZhsrwiRVANd-xciDylCiKO8jiQV"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
      {
         "name": "Spider-Man 2099",
         "stat": "mana",
         "value": 90,
-        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
      {
         "name": "Joz",
         "stat": "strenght",
         "value": 92,
-        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
      {
         "name": "Anakin",
         "stat": "speed",
         "value": 93,
-        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
      {
         "name": "Charlotte",
         "stat": "popularity",
         "value": 94,
-        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
      {
         "name": "Anhour",
         "stat": "strenght",
         "value": 95,
-        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+        "image": "https://i83.servimg.com/u/f83/19/48/18/17/deidar13.jpg"
     },
     // Ajoutez plus d'adversaires ici si besoin
 ]
