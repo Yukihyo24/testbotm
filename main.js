@@ -9,14 +9,16 @@ async function loadGameData() {
     enemies = await fetch('data/enemies.json').then(res => res.json());
 }
 
-// Fonction pour démarrer le jeu
-function startGame() {
-    loadGameData().then(() => {
-        score = 0;
-        currentEnemyIndex = 0;
-        displayDeck();
-        nextTurn();
+// Fonction pour afficher les onglets
+function showTab(tabId) {
+    document.querySelectorAll('.tab-content').forEach(section => {
+        section.style.display = 'none';
     });
+    document.getElementById(tabId).style.display = 'block';
+
+    if (tabId === 'deck') {
+        displayDeck();
+    }
 }
 
 // Afficher le deck du joueur
@@ -37,6 +39,16 @@ function displayDeck() {
             <p>Popularité : ${card.stats.popularity}</p>
         `;
         deckContainer.appendChild(cardElement);
+    });
+}
+
+// Fonction pour démarrer le jeu
+function startGame() {
+    loadGameData().then(() => {
+        score = 0;
+        currentEnemyIndex = 0;
+        displayDeck(); // Charger le deck si ce n'est pas déjà fait
+        nextTurn();
     });
 }
 
@@ -84,3 +96,6 @@ function nextTurn() {
         alert("Vous avez perdu toutes vos cartes ! Game Over.");
     }
 }
+
+// Charger les données de jeu au chargement de la page
+loadGameData();
