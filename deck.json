@@ -1,27 +1,42 @@
 [
     {
-        "name": "Guerrier",
-        "image": "assets/guerrier.png",
-        "universe": "Fantasy",
-        "level": 1,
+        "name": "Deidara",
+        "image": "https://drive.google.com/uc?export=view&id=1zKtTSZhsrwiRVANd-xciDylCiKO8jiQV/
+",
+        "universe": "Naruto",
+        "level": 4,
         "stats": {
-            "strength": 5,
-            "mana": 3,
-            "speed": 4,
-            "popularity": 2
+            "strength": 99,
+            "mana": 99,
+            "speed": 99,
+            "popularity": 99
         }
     },
     {
-        "name": "Mage",
-        "image": "assets/mage.png",
-        "universe": "Fantasy",
-        "level": 1,
+        "name": "Deidara",
+        "image": "https://drive.google.com/uc?export=view&id=1zKtTSZhsrwiRVANd-xciDylCiKO8jiQV/
+",
+        "universe": "Naruto",
+        "level": 4,
         "stats": {
-            "strength": 2,
-            "mana": 8,
-            "speed": 3,
-            "popularity": 5
+            "strength": 99,
+            "mana": 99,
+            "speed": 99,
+            "popularity": 99
         }
-    }
+    },
+    {
+        "name": "Deidara",
+        "image": "https://drive.google.com/uc?export=view&id=1zKtTSZhsrwiRVANd-xciDylCiKO8jiQV/
+",
+        "universe": "Naruto",
+        "level": 4,
+        "stats": {
+            "strength": 99,
+            "mana": 99,
+            "speed": 99,
+            "popularity": 99
+        }
+    },
     // Ajoutez plus de cartes ici si besoin
 ]
