@@ -5,8 +5,8 @@ let score = 0;
 
 // Charger les cartes du deck et les ennemis depuis JSON
 async function loadGameData() {
-    deck = await fetch('data/deck.json').then(res => res.json());
-    enemies = await fetch('data/enemies.json').then(res => res.json());
+    deck = await fetch('deck.json').then(res => res.json());
+    enemies = await fetch('enemies.json').then(res => res.json());
 }
 
 // Fonction pour afficher les onglets
