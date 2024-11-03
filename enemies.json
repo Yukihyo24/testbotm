@@ -3,19 +3,43 @@
         "name": "Pikachu",
         "stat": "speed",
         "value": 88,
-        "image": "https://drive.google.com/file/d/1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5/view?usp=sharing"
+        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
     },
     {
-        "name": "Pikachu",
-        "stat": "speed",
-        "value": 88,
-        "image": "https://drive.google.com/file/d/1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5/view?usp=sharing"
+        "name": "Deidara",
+        "stat": "popularity",
+        "value": 90,
+        "image": "https://drive.google.com/uc?export=view&id=1zKtTSZhsrwiRVANd-xciDylCiKO8jiQV"
     },
      {
-        "name": "Pikachu",
+        "name": "Spider-Man 2099",
+        "stat": "mana",
+        "value": 90,
+        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+    },
+     {
+        "name": "Joz",
+        "stat": "strenght",
+        "value": 92,
+        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+    },
+     {
+        "name": "Anakin",
         "stat": "speed",
-        "value": 88,
-        "image": "https://drive.google.com/file/d/1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5/view?usp=sharing"
+        "value": 93,
+        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+    },
+     {
+        "name": "Charlotte",
+        "stat": "popularity",
+        "value": 94,
+        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
+    },
+     {
+        "name": "Anhour",
+        "stat": "strenght",
+        "value": 95,
+        "image": "https://drive.google.com/uc?export=view&id=1MoGLBlvfHJOwUFjDOW_QgS0Zc1XwkHs5"
     },
     // Ajoutez plus d'adversaires ici si besoin
 ]
